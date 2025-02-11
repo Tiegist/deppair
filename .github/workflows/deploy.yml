@@ -3,7 +3,7 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - master  # Change this to your target branch if different
+      - new  # Change this to your target branch if different
 
 permissions:
   contents: write  # Allow write access to repository contents
