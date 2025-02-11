@@ -17,7 +17,7 @@ const openReadmeInEditor = () => fetch('/__open-in-editor?file=README.md')
     <template #heading>New Documentation</template>
 
     Vue’s
-    <a href="https://vuejs.org/" target="_blank" rel="noopener">official documentation</a>
+    <a href="https://vuejs.org/" target="_blank" rel="noopener">non officialllll documentation</a>
     provides you with all information you need to get started.
   </WelcomeItem>
 
